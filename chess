@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chess</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            
+            </tr>
+            <tr>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+            <td class="even" ></td>
+            <td class="odd"></td>
+               
+                </tr>
+                <tr>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    
+                    </tr>
+                    <tr>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                    <td class="even" ></td>
+                    <td class="odd"></td>
+                       
+                        </tr>
+                        <tr>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            
+                            </tr>
+                            <tr>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                            <td class="even" ></td>
+                            <td class="odd"></td>
+                               
+                                </tr>
+                                <tr>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    
+                                    </tr>
+                                    <tr>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                    <td class="even" ></td>
+                                    <td class="odd"></td>
+                                       
+                                        </tr>
+              
+
+    </table>
+    <style>
+       tr, td{
+            border: 1px solid black;
+            width: 40px;
+            height: 60px;
+            border-collapse: collapse;
+            
+        }
+        .even{
+            background-color: black;
+
+
+        }
+      
+
+    </style>
+</body>
+</html>
